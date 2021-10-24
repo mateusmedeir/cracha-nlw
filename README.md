@@ -4,3 +4,10 @@
 </p>
 <p align= "center" width = "100%">
   <img width = "25%" src = "https://user-images.githubusercontent.com/92342656/138602724-7523d423-3cbb-4abd-90ab-d5151501879b.jpg">
+</p>
+<h2>Tecnologias</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+</ul>  
