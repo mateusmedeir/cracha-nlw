@@ -1,0 +1,2 @@
+![Versão Desktop](https://user-images.githubusercontent.com/92342656/138602627-9b1dfa00-5846-4671-b9fd-eede3c4900e1.jpg)
+![Versão Mobile](https://user-images.githubusercontent.com/92342656/138602724-7523d423-3cbb-4abd-90ab-d5151501879b.jpg)
