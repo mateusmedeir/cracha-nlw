@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #000000;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+    <image id="image" width="200" height="200" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAfklEQVRoge3aoQ2AQBQE0YUgT2ApgAZQ9C9pgQJogALIKTxm+Mm8Cnb8Dtu2H0mW1HRNSdYkc9GANia5fzDkq3usuftlAM0AmgE0A2gG0AygGUAzgGYAzQCaATQDaAbQDKAZQDOAZgDNAJoBNANoBtB6QCu8v/W3yln2bpNcD328BuZ6oHhMAAAAAElFTkSuQmCC"/>
+  </defs>
+  <use xlink:href="#image"/><g fill="none"><path d="M0 18.338C0 8.216 8.474 0 18.92 0h218.16C247.53 0 256 8.216 256 18.338v219.327C256 247.79 247.53 256 237.08 256H18.92C8.475 256 0 247.791 0 237.668V18.335z" fill="#D0D0C9"/></g>
+  <use id="Layer_2_copy" data-name="Layer 2 copy" xlink:href="#image"/>
+  <circle class="cls-1" cx="63" cy="62" r="12"/>
+  <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-1" x="85" y="83" width="21" height="67"/>
+  <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-1" x="52" y="83" width="21" height="67"/>
+  <path id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-2" d="M105,92a25.864,25.864,0,0,1,9-8c5.51-2.915,16.323-5.869,26,1a24.441,24.441,0,0,1,10,19.129V150H130V111a12.611,12.611,0,0,0-4-8,12.44,12.44,0,0,0-6-3,14,14,0,0,0-15,16,35.96,35.96,0,0,1-1.166-10.713A93.692,93.692,0,0,1,105,92Z"/>
+</svg>
